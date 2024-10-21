@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 #===================================List========================================
 # python中可变有序表
 classmatesList = ['Michael', 'Bob', 'Tracy']
