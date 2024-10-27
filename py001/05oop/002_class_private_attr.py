@@ -1,4 +1,4 @@
-#!/user/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 # 私有化类的属性可以通过在属性前，增加__来实现

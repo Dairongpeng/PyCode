@@ -1,4 +1,4 @@
-#!/user/bin/env python
+#!/usr/bin/env python
 
 #=======================1. 实例属性及类属性==================================
 class Student(object):
